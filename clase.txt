@@ -1,0 +1,5 @@
+
+CONFIGURACIONES:
+
+git config --global
+git global 
